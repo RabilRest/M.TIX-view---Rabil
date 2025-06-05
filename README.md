@@ -1,0 +1,1 @@
+This is the appearance of the M.TIX application based on the website that I created to complete the teacher's assignment to imitate the appearance of any application. And I chose M.TIX because I like its appearance.
